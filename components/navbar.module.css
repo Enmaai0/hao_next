@@ -1,0 +1,14 @@
+.nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #4c4b4b;
+  padding: 1.5rem 2rem;
+  flex-wrap: wrap;
+}
+
+.links {
+  display: flex;
+  gap: 2rem;
+}
